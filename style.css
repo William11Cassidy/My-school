@@ -1,0 +1,16 @@
+.school{
+    width: 100%;
+    height: 500px;
+}
+.event_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.event_head i{
+    float: right;
+}
+.event_text span {
+    color: orange;
+}
